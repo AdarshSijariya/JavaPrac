@@ -1,0 +1,4 @@
+@Dora
+public class B {
+
+}
