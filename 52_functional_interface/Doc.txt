@@ -1,0 +1,12 @@
+Marker Interfaces:
+
+    1. Cloneable
+    2. RandomAccess
+    3. Serializable
+
+Functional Interfaces:
+
+    1. Runnable(run)
+    2. Closeable(close)
+    3. Callable(call)
+    4. ActionListener(actionPerformed​)
